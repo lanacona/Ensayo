@@ -1,2 +1,3 @@
  
 liney en txt 
+agregar en archivo
